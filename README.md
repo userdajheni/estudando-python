@@ -1,2 +1,2 @@
-# estudando-python
+# Estudando Python 🐍
 Estudos sobre python
