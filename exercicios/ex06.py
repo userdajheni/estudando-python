@@ -5,3 +5,7 @@ ant = numero - 1
 suces = numero + 1
 
 print('O numero digitado foi: {}, seu antecessor é: {} e seu sucessor é: {}'.format(numero, ant, suces))
+
+
+# versão guanabara
+# print('O numero digitado foi: {}, seu antecessor é: {} e seu sucessor é: {}'.format(numero, (numero-1), (numero+1)))
