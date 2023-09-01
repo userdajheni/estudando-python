@@ -3,4 +3,6 @@ valor = float(input('Quantos reais você tem? '))
 
 conversor = valor / 3.27
 
-print('Com esse valor você consegue comprar {} dolares'.format(conversor))
+print('Com esse valor você consegue comprar {:.2f} dolares'.format(conversor))
+
+# :.2f indica que deve haver 2 casas após a virgula
