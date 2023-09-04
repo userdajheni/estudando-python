@@ -2,4 +2,4 @@
 preco = float(input('Digite o preço do seu produto: '))
 desconto = preco - (preco * (5 / 100))
 
-print('Com 5 porcento de desconto você pagará apenas R$ {}'.format(desconto))
+print('Com 5 porcento de desconto você pagará apenas R$ {:.2f}'.format(desconto))
